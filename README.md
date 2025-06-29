@@ -98,18 +98,6 @@ To convert selected rectangles into a clean polygon with minimal vertices:
 
 ---
 
-## ⚙️ Potential Enhancements
-
-In future versions, the following methods may be integrated for more flexible optimization:
-
-- **Ray Projection Method**  
-  Check if points lie inside a polygon, enabling more arbitrary region definitions.
-
-- **Linear Programming-Based Polygon Formation**  
-  Use LP to optimize over (x, y) vertex placements while constraining axis-aligned edges.
-
----
-
 ## 🧪 Output
 
 - Number of polygonal edges printed to stdout
